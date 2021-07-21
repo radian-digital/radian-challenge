@@ -13,7 +13,7 @@ The goal is to give us some insights into how you work, how you would structure 
   * __React:__ Hooks, composition, and state management 
   * __Nextjs:__ SSG vs ISR vs SSR (you don't need to implement all three, just understanding the difference), routing concepts, including dynamic routes 
   * __Apollo:__ Basic usage 
-  * __Materil-UI:__ Component model, jss, general usage 
+  * __Material-UI:__ Component model, jss, general usage 
 
 
 Relax and Have Fun - This isn't a test with just right or wrong answers. It is the opportunity for us to discuss decisions and help us understand your process and also for you to learn about us.
